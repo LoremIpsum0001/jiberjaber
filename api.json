@@ -1,3 +1,4 @@
 {
-    "getPostal": false
+    "getPostal": false,
+    "debug": true
 }
